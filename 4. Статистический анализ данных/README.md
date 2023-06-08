@@ -18,7 +18,7 @@
 * Python 
 * Pandas
 * Matplotlib
-* NumPy
+* Seaborn
 * SciPy
 * Описательная статистика
 * Проверка статистических гипотез

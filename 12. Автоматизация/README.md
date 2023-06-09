@@ -34,6 +34,7 @@
 
 ## Инструменты для исследования:
 
-* `pandas`
-* `sqlalchemy `
-* `tableau`
+ * `Pandas`
+ * `Sqlalchemy`
+ * `SQL`
+ * `Tableau` 

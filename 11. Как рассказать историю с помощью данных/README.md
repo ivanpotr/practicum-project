@@ -24,9 +24,9 @@
 
 ## Библиотеки и инструмены:
 
-* Python 
-* Pandas
-* Мatplotlib
-* Seaborn
-* Plotly
-* Визуализация данных
+* `Python`
+* `Pandas`
+* `Мatplotlib`
+* `Seaborn`
+* `Plotly`
+* `Визуализация данных`

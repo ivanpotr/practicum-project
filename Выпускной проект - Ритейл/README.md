@@ -21,9 +21,9 @@
 
 ## Библиотеки и инструмены:
 
-* Python 
-* Pandas
-* Мatplotlib
-* Seaborn
-* Plotly
-* Scipy
+* `Python` 
+* `Pandas`
+* `Мatplotlib`
+* `Seaborn`
+* `Plotly`
+* `Scipy`

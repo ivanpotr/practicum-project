@@ -12,5 +12,5 @@
 
 ## Библиотеки и инструмены:
 
-* SQL 
-* PostgreSQL
+* `SQL` 
+* `PostgreSQL`

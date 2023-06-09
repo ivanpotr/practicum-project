@@ -26,5 +26,5 @@
 
 ## Библиотеки и инструмены:
 
-* Python 
-* Pandas
+* `Python` 
+* `Pandas`

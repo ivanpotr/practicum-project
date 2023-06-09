@@ -16,7 +16,7 @@
 
 ## Библиотеки и инструмены:
 
-* SQL
-* PostgreSQL
-* SQLAlchemy
-* Python 
+* `SQL`
+* `PostgreSQL`
+* `SQLAlchemy`
+* `Python` 
